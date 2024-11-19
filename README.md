@@ -10,8 +10,19 @@ ________________________________________
 4.	What role do tenure and card ownership play in churn rates?
 5.	How do customer satisfaction levels and complaints affect churn?
 6.	Which product categories experience the highest churn rates?
+
+- <a href="">View Dataset that Used</a>
 ________________________________________
 ## Dashboards:
+![b1](https://github.com/user-attachments/assets/349d84af-a315-4dbd-b96e-2ece33c84184)
+
+![b2](https://github.com/user-attachments/assets/cc2cec31-1bd6-4713-b106-f8d7abc5e81f)
+
+![b3](https://github.com/user-attachments/assets/44087e23-8786-4da1-bc37-bab6e9f11416)
+
+![b4](https://github.com/user-attachments/assets/65e223fa-9d2d-4cb9-942a-c248aba9ac0f)
+
+![b5](https://github.com/user-attachments/assets/508f7ee1-1109-48fa-a2ca-60297fe0b390)
 
 ________________________________________
 ## Insights:
