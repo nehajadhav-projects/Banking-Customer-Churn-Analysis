@@ -12,6 +12,9 @@ ________________________________________
 6.	Which product categories experience the highest churn rates?
 
 - <a href="https://github.com/nehajadhav-projects/Banking-Customer-Churn-Analysis/blob/main/Customer%20churn%20records.xlsx">View Dataset that Used</a>
+
+- <a href="https://app.powerbi.com/view?r=eyJrIjoiMTRlMWNlYmQtM2U2OC00OTNhLTgyNzctODU4YjEwM2M5M2U0IiwidCI6Ijg5MDI1YjA2LWY2NTItNGM1Mi1hODEzLTgyNGU2YWIyZjVlNiJ9">View Live Interactive Dashboard</a>
+
 ________________________________________
 ## Dashboards:
 ![b1](https://github.com/user-attachments/assets/349d84af-a315-4dbd-b96e-2ece33c84184)
